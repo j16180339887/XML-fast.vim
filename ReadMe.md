@@ -17,6 +17,10 @@ Usage
     * Normal mode -> Edit -> XML -> Beautify
     * Normal mode -> Edit -> XML -> Minify
 
+![Imgur](https://i.imgur.com/Sz7f7T1.png)
+
+NOTE: I installed the [MonoKombat.vim theme](https://github.com/j16180339887/MonoKombat.vim)
+
 ## Install with [Vundle](https://github.com/VundleVim/Vundle.vim)
 ```vim
 Bundle 'j16180339887/XML-fast.vim'
